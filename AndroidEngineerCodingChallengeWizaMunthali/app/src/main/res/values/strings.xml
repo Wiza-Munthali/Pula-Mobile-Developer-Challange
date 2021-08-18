@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Android Engineer Coding Challenge Wiza Munthali</string>
+    <string name="next">Next</string>
+    <string name="start">Start</string>
+    <string name="finish">Finish</string>
+    <string name="size">What is the size of the farm in hectares?</string>
+    <string name="welcome">Welcome to the Farmers Survey press start to begin the survey</string>
+
+    <string name="nameInstructions">Please enter your name</string>
+    <string name="name">What is the name of the farmer?</string>
+    <string name="gender">What is the gender of the farmer?</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
